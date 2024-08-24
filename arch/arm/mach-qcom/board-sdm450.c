@@ -10,6 +10,7 @@
 
 static const char *sdm450_dt_match[] __initconst = {
 	"qcom,sdm450",
+	"qcom,sda450",
 	NULL
 };
 
